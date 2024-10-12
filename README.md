@@ -18,8 +18,7 @@ Projeto desenvolvido como requisito parcial para conclusão do módulo de Ciênc
 - [Requisitos bônus:](#requisitos-bônus)
   - [4 - Encontrando números repetidos (Algoritmo de busca)](#4---encontrando-números-repetidos-algoritmo-de-busca)
   - [5 - Palíndromos (Iteratividade)](#5---palíndromos-iteratividade)
-  - [Depois de terminar o desenvolvimento](#depois-de-terminar-o-desenvolvimento)
-  - [Revisando um pull request](#revisando-um-pull-request)
+
   `Requisitos obrigatórios:`
     - [1 - Número de estudantes estudando no mesmo horário (Algoritmo de busca)](#1---número-de-estudantes-estudando-no-mesmo-horário-algoritmo-de-busca)
     - [2 - Palíndromos (Recursividade)](#2---palíndromos-recursividade)
